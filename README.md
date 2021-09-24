@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning HTML, CSS, JS, Java and Python
 - 🤔 I’m looking for help with Front-End
 - 📫 How to reach me: douglasbt.dev@gmail.com
 
@@ -20,8 +20,5 @@
   ##
   
   <div> 
- 
- 	
-
   <a href="https://www.linkedin.com/in/pedro-cardoso-73b662179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
