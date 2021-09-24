@@ -20,5 +20,5 @@
   ##
   
   <div> 
-  <a href="https://www.linkedin.com/in/pedro-cardoso-73b662179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/douglas-barcellos-teixeira-b9b572161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
