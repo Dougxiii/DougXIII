@@ -1,7 +1,7 @@
 ### Hi there 👋
  
-- 🌱 I’m currently learning HTML, CSS, JS, Java and Python
-- 🤔 I’m looking for help with Front-End
+- 🌱 I’m currently learning JAVA
+- 🤔 I’m looking for help with back-end and database
 - 📫 How to reach me: douglasbt.dev@gmail.com
 
 
